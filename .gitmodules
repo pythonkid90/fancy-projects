@@ -1,9 +1,6 @@
-[submodule "pysh"]
-	path = pysh
-	url = https://github.com/pythonkid90/pysh
 [submodule "tkfancy"]
-	path = tkfancy
-	url = https://github.com/pythonkid90/tkfancy
+    path = tkfancy
+    url = https://github.com/fancy-projects/tkfancy
 [submodule "fancy-cli"]
-	path = fancy-cli
-	url = https://github.com/pythonkid90/fancy-cli
+    path = fancy-cli
+    url = https://github.com/fancy-projects/fancy-cli
